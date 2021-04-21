@@ -1,1 +1,1 @@
-# stepik_selenium-python
+Repository of solutions https://stepik.org/course/575/
